@@ -132,11 +132,11 @@ I work with a diverse set of tools and technologies on a daily basis:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         11 hrs 34 mins  ████████▓░░░░░░░░░░░░░░░░   34.93 %
-Markdown     9 hrs 5 mins    ███████░░░░░░░░░░░░░░░░░░   27.42 %
-Docker       4 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.47 %
-Smarty       3 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-MDX          2 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+Markdown                   8 hrs 49 mins   █████████▓░░░░░░░░░░░░░░░   38.78 %
+Docker                     4 hrs 45 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
+YAML                       3 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.70 %
+MDX                        2 hrs 29 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+Other                      1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
 ```
 
 <!--END_SECTION:waka-->
