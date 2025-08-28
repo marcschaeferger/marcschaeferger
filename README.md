@@ -132,11 +132,11 @@ I work with a diverse set of tools and technologies on a daily basis:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML              27 hrs 54 mins  █████████████▓░░░░░░░░░░░   54.75 %
-Markdown          9 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.35 %
-JSON              3 hrs 1 min     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-Other             2 hrs 40 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-Puppet            1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+YAML              27 hrs 14 mins  █████████████▓░░░░░░░░░░░   55.27 %
+Markdown          8 hrs 59 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
+JSON              3 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Other             2 hrs 44 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+Puppet            2 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 ```
 
 <!--END_SECTION:waka-->
