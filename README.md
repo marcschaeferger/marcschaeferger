@@ -132,11 +132,11 @@ I work with a diverse set of tools and technologies on a daily basis:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         7 hrs 59 mins   █████████▒░░░░░░░░░░░░░░░   37.47 %
-Markdown     4 hrs 55 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.11 %
-ERB          2 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
-Python       1 hr 12 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-TypeScript   53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+YAML         5 hrs 33 mins   ███████▒░░░░░░░░░░░░░░░░░   28.92 %
+Markdown     3 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   19.80 %
+ERB          2 hrs 46 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.42 %
+Python       1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
+Bash         1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
 ```
 
 <!--END_SECTION:waka-->
