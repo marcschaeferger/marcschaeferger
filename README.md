@@ -105,6 +105,10 @@ I work with a diverse set of tools and technologies on a daily basis:
 <a href="https://learn.microsoft.com/api/credentials/share/de-de/marcschaeferger/A55F526086529048?sharingId=3A9FBB8B94C5FEA7" title="Microsoft Certified: Azure Administrator Associate"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" alt="Microsoft Certified: Azure Administrator Associate" width="80" height="80"></a>
 <a href="https://learn.microsoft.com/api/credentials/share/de-de/marcschaeferger/AE0D7E4889A06BD5?sharingId=3A9FBB8B94C5FEA7" title="Microsoft Certified: Azure Solutions Architect Expert"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-expert-badge.svg?branch=main" alt="Microsoft Certified: Azure Solutions Architect Expert" width="80" height="80"></a>
 
+## Holopin
+
+[![An image of @marcschaeferger's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/marcschaeferger)](https://holopin.io/@marcschaeferger)
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marcschaeferger&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
