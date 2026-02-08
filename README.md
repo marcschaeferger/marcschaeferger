@@ -138,11 +138,11 @@ I work with a diverse set of tools and technologies on a daily basis:
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform         10 hrs 35 mins  █████████▒░░░░░░░░░░░░░░░   37.18 %
-YAML              7 hrs 38 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.86 %
-Markdown          3 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-HCL               2 hrs 34 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-Other             1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+YAML                 7 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   32.47 %
+Markdown             3 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
+Terraform            2 hrs 54 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
+HCL                  2 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+Puppet               2 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
 ```
 
 <!--END_SECTION:waka-->
