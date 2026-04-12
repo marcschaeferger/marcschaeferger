@@ -95,6 +95,7 @@ I work with a diverse set of tools and technologies on a daily basis:
 
 ### Credly
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/bf5c71c3-dc26-42b4-9ba5-ba2cf6bc0149" title="LFCA: Linux Foundation Certified IT Associate"><img src="https://images.credly.com/size/80x80/images/a2c14e0a-56cb-4990-809a-23b0850c1f96/Training_Badges_LFCA_for_acclaim.png" alt="LFCA: Linux Foundation Certified IT Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/82efb739-b566-4f89-b8d9-5ace315b5c5b" title="CKA: Certified Kubernetes Administrator"><img src="https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/47b707a2-38e5-4342-9dfa-a7cbaba58a4a" title="KCNA: Kubernetes and Cloud Native Associate"><img src="https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/29976294-3ab4-4cf7-bb1a-88506488c870" title="Microsoft Certified: Azure Fundamentals"><img src="https://images.credly.com/size/80x80/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" width="80" height="80"></a>
