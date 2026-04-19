@@ -139,8 +139,7 @@ I work with a diverse set of tools and technologies on a daily basis:
 <!--START_SECTION:waka-->
 
 ```txt
-Go         26 mins               █████████████████████▓░░░   86.02 %
-Markdown   4 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
