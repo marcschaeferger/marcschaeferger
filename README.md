@@ -139,7 +139,11 @@ I work with a diverse set of tools and technologies on a daily basis:
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   0 secs                █████████████████████████   100.00 %
+YAML         28 mins               ██████████████████▒░░░░░░   73.30 %
+Markdown     5 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
+JSON         3 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+Text         0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
