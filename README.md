@@ -140,11 +140,11 @@ I work with a diverse set of tools and technologies on a daily basis:
 <!--START_SECTION:waka-->
 
 ```txt
-Go           13 hrs 4 mins         ██████████████░░░░░░░░░░░   56.05 %
-YAML         6 hrs 57 mins         ███████▒░░░░░░░░░░░░░░░░░   29.78 %
-TypeScript   1 hr 35 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-Other        31 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Git Config   29 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Go           7 hrs 24 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.20 %
+YAML         6 hrs 52 mins         ██████░░░░░░░░░░░░░░░░░░░   24.36 %
+Puppet       4 hrs 42 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
+Docker       2 hrs 4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+ERB          1 hr 45 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
 ```
 
 <!--END_SECTION:waka-->
