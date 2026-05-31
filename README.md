@@ -95,6 +95,7 @@ I work with a diverse set of tools and technologies on a daily basis:
 
 ### Credly
 <!--START_SECTION:badges-->
+[![Pre Security (SEC0)](https://images.credly.com/size/80x80/images/4a4de480-0a93-47f3-ac6e-a10523c21938/blob)](https://www.credly.com/badges/73e70101-6f35-4915-91d7-154a464ca430)
 [![LFCA: Linux Foundation Certified IT Associate](https://images.credly.com/size/80x80/images/a2c14e0a-56cb-4990-809a-23b0850c1f96/Training_Badges_LFCA_for_acclaim.png)](https://www.credly.com/badges/bf5c71c3-dc26-42b4-9ba5-ba2cf6bc0149)
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](https://www.credly.com/badges/82efb739-b566-4f89-b8d9-5ace315b5c5b)
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/47b707a2-38e5-4342-9dfa-a7cbaba58a4a)
